@@ -1,6 +1,6 @@
 # Ask Me Anything
 
-> It's super easy, just make an issue :smile: 
+> It's super easy, just make an [issue](https://github.com/codeanit/ama/issues) :smile: 
 
 
 I'll try to answer it as soon as I can get to it. Once I answer I'll close the
